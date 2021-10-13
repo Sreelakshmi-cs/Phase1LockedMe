@@ -1,0 +1,8 @@
+
+Business Allowances       Rs 20,000
+Entertainment Allowances  Rs 10,000
+Holiday Allowances        Rs 25,000
+Marraige Allowances       Rs 30,000
+Medical Allowances        Rs 15,000
+Overtime Allowances       Rs 35,000
+

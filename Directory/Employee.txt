@@ -1,0 +1,7 @@
+
+The file Consist of the Employee Details
+
+EmpId    Name              Posistion
+101      Avinash           Human Resource
+102      Ananya Verma      Manager
+103      Neha Agarwal      Product Manager
